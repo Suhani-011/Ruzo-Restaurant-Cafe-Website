@@ -1,0 +1,261 @@
+@media(max-width:1400px) {
+    .nav-item{
+        font-size: 14px;
+        padding: 15px 15px 15px 0;
+    }
+    .default-btn{
+        padding: 14.5px 25px 13.5px 25px;
+        font-size: 13px;
+    }
+    .other-options{
+        margin-left: 0px;
+    }
+    .container-fluid{
+        max-width: 1140px;
+        padding: 0px 10px;
+    }
+    .home-subtitle{
+        font-size: 70px;
+    }
+    .home-context,.home-title{
+        font-size: 14px;
+    }
+    .about-main img{
+        width: 90%;
+    }
+    .default-subtitle{
+        font-size: 16px;
+    }
+    .default-title{
+        font-size: 36px;
+    }
+    .default-context{
+        font-size: 14px;
+    }
+    .headline-title .no,.plus{
+        font-size: 30px;
+    }
+    .headline-p{
+        font-size: 14px;
+    }
+    .banner-shape2{
+        bottom: -50%;
+    }
+    .title{
+        font-size: 18px;
+    }
+    .service-btn{
+        font-size: 13px;
+    }
+    .services-card{
+        padding: 25px;
+    }
+    .services-shape{
+        top: 30px;
+        max-width: 70px;
+    }
+    .menu-text p{
+        font-size: 14px;
+    }
+    .footer-shape2 img{
+        display: none;
+    }
+}
+@media(max-width:1200px) {
+    .container-fluid{
+        max-width: 960px;
+        padding: 0px 10px;
+    }
+    .subli,.sub-li{
+        font-size: 13px;
+    }
+    .about-main img{
+        width: 110%;
+    }
+    .banner-shape1{
+        left: 14%;
+    }
+    .form-control,.form-select{
+        padding: 10px 18px;
+        font-size: 13px;
+    }
+    .visit-form{
+        padding: 30px;
+    }
+    .visit-form::after{
+        width:93%;
+    }
+    .odo-count,.odo-plus{
+        font-size: 50px;
+    }
+}
+@media(max-width:992px) {
+    .nav-item{
+        font-size: 14px;
+        padding: 15px 15px 15px 0;
+    }
+    .container-fluid{
+        max-width: 720px;
+        padding:0px 10px;
+    }
+    .home-subtitle{
+        font-size: 45px;
+    }
+    .about-main img{
+        width: 80%;
+    }
+    .shape-2{
+        bottom: 4%;
+        right: -68%;
+    }
+    .shape-2 img{
+        width: 10%;
+    }
+    .default-title{
+        font-size: 30px;
+    }
+    .headline-title .no,.plus{
+        font-size: 26px;
+    }
+    .headline-p{
+        font-size: 12px;
+    }
+    .banner-shape1{
+        top: -20%;
+    }
+    .banner-shape2{
+        display: none;
+    }
+    .banner-shape3{
+        right: -40%;
+    }
+    .menu-text p{
+        font-size: 12px;
+    }
+    .visit-form::after{
+        height: 92%;
+        width: 94%;
+    }
+    .odo-count,.odo-plus{
+        font-size: 30px;
+    }
+}
+@media(max-width:768px) {
+    .container-fluid{
+        max-width: 720px;
+        padding:0px 35px;
+    }
+    .home-subtitle{
+        font-size: 40px;
+    }
+    .home-context,.home-title{
+        font-size: 13px;
+    }
+    .about-main img{
+        width: 100%;
+    }
+    .about-img1 img,.about-img2 img{
+        width: 60%;
+    }
+    .about-img2{
+        right: -78px;
+    }
+    .default-subtitle{
+        font-size: 13px;
+    }
+    .default-title{
+        font-size: 24px;
+    }
+    .default-context{
+        font-size: 13px;
+    }
+    .subheader{
+        display: none;
+    }
+    .banner-shape4 img{
+        width: 100px;
+    }
+    .banner-shape3 img{
+        width: 30px;
+    }
+    .title{
+        font-size: 18px;
+    }
+    .services-card{
+        padding: 25px 20px;
+    }
+    .service-img,.services-img2,.services-shape{
+        max-width: 50px;
+        margin-bottom:15px;
+    }
+    .services-img2{
+        left: 20px;
+        top: 25px;
+    }
+    .btn-filter{
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .odo-count,.odo-plus{
+        font-size: 25px;
+    }
+    .headline-p{
+        font-size: 10px;
+    }
+    .blog-time{
+        padding: 6px 15px;
+        font-size:12px ;
+    }
+}
+@media(max-width:576px) {
+    .row,.menu-tabs{
+        padding: 0px 35px;
+    }
+    .about-headline{
+        padding: 20px 0px;
+    }
+    .headline-all{
+        padding:0px 20px;
+    }
+    .headline-p{
+        font-size: 12px;
+    }
+    .headline-title .no{
+        font-size: 20px;
+    }
+    .about-img1 img,.about-img2 img{
+        width: 50%;
+    }
+    .about-img2{
+        right: -118px;
+        top: -10px;
+    }
+    .menu-text{
+        padding: 20px 25px;
+    }
+    .visit-form::after{
+        width: 93%;
+        height: 95%;
+    }
+    .odometer-area{
+        padding: 50px 0px !important;
+    }
+    .odo-count,.odo-plus{
+        font-size: 35px;
+    }
+    .blog-time{
+        padding: 10px 25px;
+        font-size:12px ;
+    }
+    .footer-part2,.footer-part4{
+        padding-left:0px;
+    }
+}
+@media(max-width:480px){
+    .visit-form::after{
+        width: 90%;
+    }
+    .odo-count,.odo-plus{
+        font-size: 25px;
+    }
+}
